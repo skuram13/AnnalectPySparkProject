@@ -1,0 +1,81 @@
+{
+  "format-version" : 2,
+  "table-uuid" : "3057a715-b7c4-4558-a5e0-9a62294edc3c",
+  "location" : "/opt/spark/data/results/iceberg/crude_oil_schema/top_five_destinations_albania_tbl",
+  "last-sequence-number" : 1,
+  "last-updated-ms" : 1740247933858,
+  "last-column-id" : 2,
+  "current-schema-id" : 0,
+  "schemas" : [ {
+    "type" : "struct",
+    "schema-id" : 0,
+    "fields" : [ {
+      "id" : 1,
+      "name" : "total_quantity_sold_per_destination",
+      "required" : false,
+      "type" : "int"
+    }, {
+      "id" : 2,
+      "name" : "destinationName",
+      "required" : false,
+      "type" : "string"
+    } ]
+  } ],
+  "default-spec-id" : 0,
+  "partition-specs" : [ {
+    "spec-id" : 0,
+    "fields" : [ ]
+  } ],
+  "last-partition-id" : 999,
+  "default-sort-order-id" : 0,
+  "sort-orders" : [ {
+    "order-id" : 0,
+    "fields" : [ ]
+  } ],
+  "properties" : {
+    "owner" : "root",
+    "write.parquet.compression-codec" : "zstd"
+  },
+  "current-snapshot-id" : 4423167658166551170,
+  "refs" : {
+    "main" : {
+      "snapshot-id" : 4423167658166551170,
+      "type" : "branch"
+    }
+  },
+  "snapshots" : [ {
+    "sequence-number" : 1,
+    "snapshot-id" : 4423167658166551170,
+    "timestamp-ms" : 1740247933858,
+    "summary" : {
+      "operation" : "overwrite",
+      "spark.app.id" : "app-20250222181151-0013",
+      "added-data-files" : "1",
+      "added-records" : "5",
+      "added-files-size" : "1054",
+      "changed-partition-count" : "1",
+      "total-records" : "5",
+      "total-files-size" : "1054",
+      "total-data-files" : "1",
+      "total-delete-files" : "0",
+      "total-position-deletes" : "0",
+      "total-equality-deletes" : "0",
+      "engine-version" : "3.4.0",
+      "app-id" : "app-20250222181151-0013",
+      "engine-name" : "spark",
+      "iceberg-version" : "Apache Iceberg 1.8.0 (commit c277c2014a1b37fe755cfe37f173b6465bb8cb73)"
+    },
+    "manifest-list" : "/opt/spark/data/results/iceberg/crude_oil_schema/top_five_destinations_albania_tbl/metadata/snap-4423167658166551170-1-d558e517-d683-4ba6-bea6-3044b5750eed.avro",
+    "schema-id" : 0
+  } ],
+  "statistics" : [ ],
+  "partition-statistics" : [ ],
+  "snapshot-log" : [ {
+    "timestamp-ms" : 1740247933858,
+    "snapshot-id" : 4423167658166551170
+  } ],
+  "metadata-log" : [ {
+    "timestamp-ms" : 1740247929759,
+    "metadata-file" : "/opt/spark/data/results/iceberg/crude_oil_schema/top_five_destinations_albania_tbl/metadata/v1.metadata.json"
+  } ]
+}

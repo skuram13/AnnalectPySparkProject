@@ -1,0 +1,46 @@
+{
+  "format-version" : 2,
+  "table-uuid" : "3057a715-b7c4-4558-a5e0-9a62294edc3c",
+  "location" : "/opt/spark/data/results/iceberg/crude_oil_schema/top_five_destinations_albania_tbl",
+  "last-sequence-number" : 0,
+  "last-updated-ms" : 1740247929759,
+  "last-column-id" : 2,
+  "current-schema-id" : 0,
+  "schemas" : [ {
+    "type" : "struct",
+    "schema-id" : 0,
+    "fields" : [ {
+      "id" : 1,
+      "name" : "total_quantity_sold_per_destination",
+      "required" : false,
+      "type" : "int"
+    }, {
+      "id" : 2,
+      "name" : "destinationName",
+      "required" : false,
+      "type" : "string"
+    } ]
+  } ],
+  "default-spec-id" : 0,
+  "partition-specs" : [ {
+    "spec-id" : 0,
+    "fields" : [ ]
+  } ],
+  "last-partition-id" : 999,
+  "default-sort-order-id" : 0,
+  "sort-orders" : [ {
+    "order-id" : 0,
+    "fields" : [ ]
+  } ],
+  "properties" : {
+    "owner" : "root",
+    "write.parquet.compression-codec" : "zstd"
+  },
+  "current-snapshot-id" : null,
+  "refs" : { },
+  "snapshots" : [ ],
+  "statistics" : [ ],
+  "partition-statistics" : [ ],
+  "snapshot-log" : [ ],
+  "metadata-log" : [ ]
+}

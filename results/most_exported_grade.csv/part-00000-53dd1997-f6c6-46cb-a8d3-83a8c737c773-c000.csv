@@ -1,0 +1,737 @@
+year,originName,gradeName,total_quantity,rnk
+2009,Africa,Light Sweet,2559851,1
+2009,Algeria,Light Sweet,698243,1
+2009,Angola,Medium,840693,1
+2009,Argentina,Heavy Sweet,115633,1
+2009,Asia-Pacific,Light Sweet,129815,1
+2009,Australia,Light Sweet,18074,1
+2009,Azerbaijan,Light Sweet,223433,1
+2009,Belize,Light Sour,4277,1
+2009,Bolivia,Light Sweet,9611,1
+2009,Brazil,Heavy Sour,638687,1
+2009,Cameroon,Heavy Sweet,81445,1
+2009,Canada,Heavy Sour,2716028,1
+2009,Canada (Region),Heavy Sour,2716028,1
+2009,Chad,Heavy Sweet,165186,1
+2009,China,Heavy Sweet,13734,1
+2009,Colombia,Heavy Sour,510496,1
+2009,Congo-Brazzaville,Light Sweet,146342,1
+2009,Congo-Kinshasa,Medium,23884,1
+2009,Cote d'Ivoire,Medium,2429,1
+2009,Ecuador,Heavy Sour,442211,1
+2009,Egypt,Medium,13454,1
+2009,Equatorial Guinea,Medium,216468,1
+2009,Eurasia,Medium,392532,1
+2009,Europe,Light Sweet,230440,1
+2009,Gabon,Medium,232561,1
+2009,Guatemala,Heavy Sweet,29498,1
+2009,Indonesia,Medium,15120,1
+2009,Iraq,Medium,1124977,1
+2009,Kazakhstan,Light Sour,40439,1
+2009,Kuwait,Medium,341432,1
+2009,Libya,Light Sweet,147553,1
+2009,Malaysia,Light Sweet,8484,1
+2009,Mauritania,Medium,6713,1
+2009,Mexico,Heavy Sour,2427467,1
+2009,Middle East,Medium,3759469,1
+2009,Nigeria,Light Sweet,1162917,1
+2009,Non-OPEC,Heavy Sour,7014938,1
+2009,Norway,Light Sweet,73143,1
+2009,OPEC,Medium,5419799,1
+2009,Oman,Medium,72597,1
+2009,Other Americas,Heavy Sour,6332788,1
+2009,Peru,Heavy Sour,22799,1
+2009,Qatar,Light Sweet,20482,1
+2009,Russia,Medium,385749,1
+2009,Saudi Arabia,Medium,2163182,1
+2009,South Africa,Medium,3619,1
+2009,Syria,Heavy Sweet,3206,1
+2009,Thailand,Light Sweet,37611,1
+2009,Trinidad and Tobago,Light Sweet,68229,1
+2009,United Arab Emirates,Medium,57281,1
+2009,United Kingdom,Light Sweet,157297,1
+2009,Venezuela,Heavy Sour,2281104,1
+2009,Vietnam,Light Sweet,59122,1
+2009,World,Heavy Sour,9458610,1
+2010,Africa,Light Sweet,3104234,1
+2010,Algeria,Light Sweet,794178,1
+2010,Angola,Medium,629839,1
+2010,Argentina,Heavy Sweet,69475,1
+2010,Asia-Pacific,Light Sweet,75103,1
+2010,Australia,Heavy Sweet,21700,1
+2010,Azerbaijan,Light Sweet,161077,1
+2010,Belize,Light Sour,5887,1
+2010,Bolivia,Light Sweet,18186,1
+2010,Brazil,Heavy Sour,505561,1
+2010,Cameroon,Heavy Sweet,126812,1
+2010,Canada,Heavy Sour,2875642,1
+2010,Canada (Region),Heavy Sour,2875642,1
+2010,Chad,Heavy Sweet,46858,1
+2010,China,Heavy Sweet,10185,1
+2010,Colombia,Heavy Sour,673918,1
+2010,Congo-Brazzaville,Light Sweet,161833,1
+2010,Congo-Kinshasa,Medium,22575,1
+2010,Cote d'Ivoire,Medium,13440,1
+2010,Ecuador,Heavy Sour,476952,1
+2010,Egypt,Heavy Sour,11340,1
+2010,Equatorial Guinea,Medium,145915,1
+2010,Eurasia,Medium,422282,1
+2010,Europe,Light Sour,151046,1
+2010,Gabon,Medium,187439,1
+2010,Guatemala,Heavy Sweet,24199,1
+2010,Indonesia,Medium,42707,1
+2010,Iraq,Medium,1049832,1
+2010,Kazakhstan,Light Sour,40012,1
+2010,Kuwait,Medium,375564,1
+2010,Libya,Light Sweet,100849,1
+2010,Malaysia,Light Sweet,4039,1
+2010,Mauritania,Medium,4690,1
+2010,Mexico,Heavy Sour,2284338,1
+2010,Middle East,Medium,3840816,1
+2010,Netherlands,Light Sweet,6643,1
+2010,Nigeria,Light Sweet,1582756,1
+2010,Non-OPEC,Heavy Sour,7123809,1
+2010,Norway,Light Sweet,34293,1
+2010,OPEC,Medium,5462345,1
+2010,Oman,Medium,30499,1
+2010,Other Americas,Heavy Sour,6374249,1
+2010,Peru,Heavy Sour,27111,1
+2010,Russia,Medium,405531,1
+2010,Saudi Arabia,Medium,2382856,1
+2010,Thailand,Light Sweet,32032,1
+2010,Trinidad and Tobago,Light Sweet,86842,1
+2010,United Arab Emirates,Light Sour,2198,1
+2010,United Kingdom,Light Sour,151046,1
+2010,Venezuela,Heavy Sour,2401889,1
+2010,Vietnam,Light Sweet,27454,1
+2010,World,Heavy Sour,9638041,1
+2011,Africa,Light Sweet,1995623,1
+2011,Algeria,Light Sweet,443191,1
+2011,Angola,Medium,513086,1
+2011,Argentina,Heavy Sweet,65366,1
+2011,Asia-Pacific,Light Sweet,58772,1
+2011,Australia,Heavy Sweet,12187,1
+2011,Azerbaijan,Light Sweet,137354,1
+2011,Belize,Light Sour,7546,1
+2011,Bolivia,Light Sweet,15197,1
+2011,Brazil,Heavy Sour,449575,1
+2011,Cameroon,Heavy Sweet,91826,1
+2011,Canada,Heavy Sour,3337012,1
+2011,Canada (Region),Heavy Sour,3337012,1
+2011,Chad,Heavy Sweet,125846,1
+2011,China,Heavy Sweet,2205,1
+2011,Colombia,Heavy Sour,857164,1
+2011,Congo-Brazzaville,Light Sweet,104580,1
+2011,Congo-Kinshasa,Medium,21175,1
+2011,Cote d'Ivoire,Medium,9121,1
+2011,Ecuador,Heavy Sour,492891,1
+2011,Egypt,Light Sweet,7301,1
+2011,Equatorial Guinea,Medium,41888,1
+2011,Eurasia,Medium,352632,1
+2011,Europe,Light Sweet,87437,1
+2011,Gabon,Medium,160573,1
+2011,Ghana,Light Sweet,13993,1
+2011,Guatemala,Heavy Sour,23044,1
+2011,Indonesia,Medium,32564,1
+2011,Iraq,Medium,1141042,1
+2011,Kazakhstan,Medium,10731,1
+2011,Kuwait,Medium,383292,1
+2011,Libya,Light Sweet,23296,1
+2011,Mexico,Heavy Sour,2153662,1
+2011,Middle East,Medium,4199874,1
+2011,Nigeria,Light Sweet,1058617,1
+2011,Non-OPEC,Heavy Sour,7600768,1
+2011,Norway,Light Sweet,75922,1
+2011,OPEC,Medium,5400766,1
+2011,Oman,Medium,101808,1
+2011,Other Americas,Heavy Sour,6221971,1
+2011,Peru,Heavy Sour,26208,1
+2011,Qatar,Light Sweet,13601,1
+2011,Russia,Medium,337610,1
+2011,Saudi Arabia,Medium,2548343,1
+2011,Syria,Heavy Sour,7532,1
+2011,Thailand,Light Sweet,44289,1
+2011,Trinidad and Tobago,Light Sweet,52899,1
+2011,United Arab Emirates,Medium,10850,1
+2011,United Kingdom,Heavy Sour,42868,1
+2011,Venezuela,Heavy Sour,2209270,1
+2011,Vietnam,Medium,15253,1
+2011,World,Heavy Sour,9960300,1
+2011,Yemen,Medium,14539,1
+2012,Africa,Light Sweet,1256409,1
+2012,Algeria,Light Sweet,285341,1
+2012,Angola,Medium,272118,1
+2012,Argentina,Heavy Sweet,49945,1
+2012,Asia-Pacific,Light Sweet,64939,1
+2012,Australia,Heavy Sweet,15470,1
+2012,Azerbaijan,Light Sweet,64953,1
+2012,Belize,Light Sour,6706,1
+2012,Bolivia,Light Sweet,7756,1
+2012,Brazil,Heavy Sour,388549,1
+2012,Brunei,Medium,4326,1
+2012,Cameroon,Heavy Sweet,73122,1
+2012,Canada,Heavy Sour,3631614,1
+2012,Canada (Region),Heavy Sour,3631614,1
+2012,Chad,Heavy Sweet,72870,1
+2012,China,Heavy Sweet,3206,1
+2012,Colombia,Heavy Sour,941164,1
+2012,Congo-Brazzaville,Light Sweet,57883,1
+2012,Congo-Kinshasa,Heavy Sour,924,1
+2012,Cote d'Ivoire,Heavy Sweet,6958,1
+2012,Ecuador,Heavy Sour,433531,1
+2012,Egypt,Light Sweet,68957,1
+2012,Equatorial Guinea,Medium,97139,1
+2012,Eurasia,Light Sweet,134519,1
+2012,Europe,Light Sweet,72835,1
+2012,Gabon,Light Sweet,62685,1
+2012,Guatemala,Heavy Sour,24514,1
+2012,Indonesia,Medium,9324,1
+2012,Iraq,Medium,1197553,1
+2012,Italy,Heavy Sour,2156,1
+2012,Kuwait,Medium,636195,1
+2012,Libya,Light Sweet,128212,1
+2012,Mexico,Heavy Sour,1872059,1
+2012,Middle East,Medium,4692905,1
+2012,Nigeria,Light Sweet,542073,1
+2012,Non-OPEC,Heavy Sour,7445788,1
+2012,Norway,Light Sweet,59626,1
+2012,OPEC,Medium,5321099,1
+2012,Oman,Medium,24220,1
+2012,Other Americas,Heavy Sour,5842235,1
+2012,Peru,Heavy Sour,17857,1
+2012,Russia,Light Sour,99687,1
+2012,Saudi Arabia,Medium,2834937,1
+2012,Thailand,Light Sweet,49791,1
+2012,Trinidad and Tobago,Light Sweet,45941,1
+2012,United Kingdom,Heavy Sour,31906,1
+2012,Venezuela,Heavy Sour,2164561,1
+2012,Vietnam,Light Sweet,12082,1
+2012,World,Heavy Sour,9764559,1
+2013,Africa,Light Sweet,715911,1
+2013,Algeria,Light Sweet,70000,1
+2013,Angola,Medium,207753,1
+2013,Argentina,Heavy Sweet,30828,1
+2013,Asia-Pacific,Medium,47936,1
+2013,Australia,Heavy Sweet,3661,1
+2013,Azerbaijan,Light Sweet,72898,1
+2013,Belize,Light Sour,4683,1
+2013,Bolivia,Light Sweet,2058,1
+2013,Brazil,Heavy Sour,223153,1
+2013,Cameroon,Heavy Sour,70,1
+2013,Canada,Heavy Sour,3883768,1
+2013,Canada (Region),Heavy Sour,3883768,1
+2013,Chad,Heavy Sweet,167482,1
+2013,China,Heavy Sweet,3423,1
+2013,Colombia,Heavy Sour,863604,1
+2013,Congo-Brazzaville,Light Sweet,39011,1
+2013,Congo-Kinshasa,Heavy Sweet,7,1
+2013,Ecuador,Heavy Sour,530593,1
+2013,Egypt,Light Sweet,7280,1
+2013,Equatorial Guinea,Medium,42462,1
+2013,Eurasia,Light Sweet,103047,1
+2013,Europe,Light Sweet,49315,1
+2013,Gabon,Medium,35497,1
+2013,Ghana,Light Sweet,6951,1
+2013,Guatemala,Heavy Sour,17353,1
+2013,Indonesia,Medium,37443,1
+2013,Iraq,Medium,858382,1
+2013,Kuwait,Medium,669795,1
+2013,Libya,Light Sweet,103110,1
+2013,Mauritania,Heavy Sour,7840,1
+2013,Mexico,Heavy Sour,1766268,1
+2013,Middle East,Medium,4297594,1
+2013,Netherlands,Heavy Sour,3521,1
+2013,Nigeria,Light Sweet,365764,1
+2013,Non-OPEC,Heavy Sour,7496909,1
+2013,Norway,Light Sweet,41027,1
+2013,OPEC,Medium,4622842,1
+2013,Oman,Medium,6657,1
+2013,Other Americas,Heavy Sour,5200027,1
+2013,Peru,Heavy Sour,28945,1
+2013,Russia,Light Sour,50848,1
+2013,Saudi Arabia,Medium,2762760,1
+2013,Thailand,Light Sweet,19747,1
+2013,Trinidad and Tobago,Medium,19425,1
+2013,United Arab Emirates,Light Sour,6286,1
+2013,United Kingdom,Heavy Sour,36645,1
+2013,Venezuela,Heavy Sour,1766492,1
+2013,Vietnam,Light Sweet,23695,1
+2013,World,Heavy Sour,9606394,1
+2014,Africa,Heavy Sweet,233184,1
+2014,Albania,Heavy Sour,3430,1
+2014,Algeria,Light Sweet,14637,1
+2014,Angola,Medium,122262,1
+2014,Argentina,Heavy Sweet,73066,1
+2014,Asia-Pacific,Medium,56301,1
+2014,Australia,Heavy Sweet,4046,1
+2014,Azerbaijan,Light Sweet,58779,1
+2014,Belize,Light Sour,1414,1
+2014,Brazil,Heavy Sour,256067,1
+2014,Canada,Heavy Sour,4433541,1
+2014,Canada (Region),Heavy Sour,4433541,1
+2014,Chad,Heavy Sweet,143682,1
+2014,Colombia,Heavy Sour,649383,1
+2014,Congo-Brazzaville,Light Sweet,10241,1
+2014,Ecuador,Heavy Sour,520338,1
+2014,Equatorial Guinea,Medium,9261,1
+2014,Eurasia,Light Sweet,92638,1
+2014,Europe,Heavy Sour,27776,1
+2014,Gabon,Medium,26684,1
+2014,Guatemala,Heavy Sour,17437,1
+2014,Indonesia,Medium,47033,1
+2014,Iraq,Medium,842359,1
+2014,Kuwait,Medium,669452,1
+2014,Libya,Light Sweet,9128,1
+2014,Mauritania,Light Sweet,2737,1
+2014,Mexico,Heavy Sour,1691788,1
+2014,Middle East,Medium,3942337,1
+2014,Netherlands,Medium,1792,1
+2014,Nigeria,Light Sweet,80759,1
+2014,Non-OPEC,Heavy Sour,7699146,1
+2014,Norway,Light Sweet,22127,1
+2014,OPEC,Medium,4074406,1
+2014,Other Americas,Heavy Sour,4973108,1
+2014,Peru,Heavy Sour,21588,1
+2014,Russia,Light Sweet,33859,1
+2014,Saudi Arabia,Medium,2430526,1
+2014,Thailand,Light Sweet,16464,1
+2014,Trinidad and Tobago,Medium,10360,1
+2014,United Arab Emirates,Light Sour,26677,1
+2014,United Kingdom,Heavy Sour,24346,1
+2014,Venezuela,Heavy Sour,1816507,1
+2014,Vietnam,Light Sweet,14021,1
+2014,World,Heavy Sour,9992108,1
+2015,Africa,Medium,238518,1
+2015,Albania,Heavy Sour,13839,1
+2015,Algeria,Light Sweet,7420,1
+2015,Angola,Medium,152852,1
+2015,Argentina,Heavy Sweet,39935,1
+2015,Asia-Pacific,Medium,100765,1
+2015,Australia,Heavy Sweet,23163,1
+2015,Azerbaijan,Light Sweet,33747,1
+2015,Belize,Heavy Sour,2520,1
+2015,Brazil,Heavy Sour,264985,1
+2015,Canada,Heavy Sour,5034057,1
+2015,Canada (Region),Heavy Sour,5034057,1
+2015,Chad,Heavy Sweet,169911,1
+2015,Colombia,Heavy Sour,800268,1
+2015,Congo-Brazzaville,Light Sweet,21427,1
+2015,Ecuador,Heavy Sour,573825,1
+2015,Egypt,Heavy Sour,3794,1
+2015,Equatorial Guinea,Medium,13174,1
+2015,Eurasia,Light Sweet,95305,1
+2015,Europe,Heavy Sour,51443,1
+2015,Gabon,Light Sweet,18389,1
+2015,Guatemala,Heavy Sour,20412,1
+2015,Indonesia,Medium,90111,1
+2015,Iraq,Medium,465934,1
+2015,Italy,Heavy Sour,3367,1
+2015,Kuwait,Medium,481369,1
+2015,Libya,Light Sweet,6433,1
+2015,Malaysia,Medium,1274,1
+2015,Mexico,Heavy Sour,1468691,1
+2015,Middle East,Medium,3280585,1
+2015,Nigeria,Light Sweet,79044,1
+2015,Non-OPEC,Heavy Sour,8304912,1
+2015,Norway,Medium,8162,1
+2015,OPEC,Medium,3359916,1
+2015,Other Americas,Heavy Sour,5028863,1
+2015,Peru,Heavy Sour,14105,1
+2015,Russia,Light Sweet,61558,1
+2015,Saudi Arabia,Medium,2333282,1
+2015,Trinidad and Tobago,Medium,17759,1
+2015,United Arab Emirates,Light Sour,4214,1
+2015,United Kingdom,Heavy Sour,27251,1
+2015,Venezuela,Heavy Sour,1877519,1
+2015,Vietnam,Light Sweet,13860,1
+2015,World,Heavy Sour,10509443,1
+2016,Africa,Light Sweet,660975,1
+2016,Albania,Heavy Sour,17472,1
+2016,Algeria,Light Sweet,125923,1
+2016,Angola,Medium,180299,1
+2016,Argentina,Heavy Sweet,23338,1
+2016,Asia-Pacific,Medium,88963,1
+2016,Australia,Heavy Sweet,9191,1
+2016,Azerbaijan,Light Sweet,26005,1
+2016,Bolivia,Light Sweet,2226,1
+2016,Brazil,Heavy Sour,180894,1
+2016,Canada,Heavy Sour,5044193,1
+2016,Canada (Region),Heavy Sour,5044193,1
+2016,Chad,Heavy Sweet,157234,1
+2016,Colombia,Heavy Sour,953603,1
+2016,Congo-Brazzaville,Light Sweet,6622,1
+2016,Denmark,Medium,4389,1
+2016,Ecuador,Heavy Sour,586516,1
+2016,Egypt,Light Sweet,16737,1
+2016,Equatorial Guinea,Medium,11781,1
+2016,Eurasia,Light Sweet,78197,1
+2016,Europe,Light Sweet,85309,1
+2016,Gabon,Light Sweet,3073,1
+2016,Guatemala,Heavy Sour,18977,1
+2016,Indonesia,Medium,82838,1
+2016,Iraq,Medium,648739,1
+2016,Kuwait,Medium,531384,1
+2016,Libya,Light Sweet,29757,1
+2016,Malaysia,Light Sweet,10913,1
+2016,Mauritania,Medium,3577,1
+2016,Mexico,Heavy Sour,1451653,1
+2016,Middle East,Medium,3637144,1
+2016,Netherlands,Heavy Sour,2198,1
+2016,Nigeria,Light Sweet,390509,1
+2016,Non-OPEC,Heavy Sour,8376907,1
+2016,Norway,Light Sweet,63084,1
+2016,OPEC,Medium,3704092,1
+2016,Oman,Medium,76545,1
+2016,Other Americas,Heavy Sour,4983139,1
+2016,Peru,Heavy Sour,5502,1
+2016,Russia,Light Sweet,52192,1
+2016,Saudi Arabia,Medium,2373329,1
+2016,Trinidad and Tobago,Light Sweet,10402,1
+2016,United Arab Emirates,Light Sour,19243,1
+2016,United Kingdom,Heavy Sour,26103,1
+2016,Venezuela,Heavy Sour,1781367,1
+2016,Vietnam,Medium,6125,1
+2016,World,Heavy Sour,10666152,1
+2017,Africa,Light Sweet,990115,1
+2017,Algeria,Light Sweet,167566,1
+2017,Angola,Medium,212793,1
+2017,Asia-Pacific,Medium,102662,1
+2017,Australia,Heavy Sweet,4536,1
+2017,Azerbaijan,Light Sweet,14763,1
+2017,Brazil,Heavy Sour,209818,1
+2017,Brunei,Light Sweet,1715,1
+2017,Canada,Heavy Sour,5804575,1
+2017,Canada (Region),Heavy Sour,5804575,1
+2017,Chad,Heavy Sweet,65751,1
+2017,Colombia,Heavy Sour,759906,1
+2017,Congo-Brazzaville,Light Sweet,6657,1
+2017,Cote d'Ivoire,Medium,4361,1
+2017,Denmark,Medium,8610,1
+2017,Ecuador,Heavy Sour,485338,1
+2017,Egypt,Light Sweet,12222,1
+2017,Equatorial Guinea,Medium,27895,1
+2017,Eurasia,Light Sweet,84840,1
+2017,Europe,Light Sweet,68047,1
+2017,Gabon,Medium,8939,1
+2017,Ghana,Medium,41986,1
+2017,Guatemala,Heavy Sour,14588,1
+2017,Indonesia,Medium,88557,1
+2017,Iraq,Medium,887397,1
+2017,Kuwait,Medium,360899,1
+2017,Libya,Light Sweet,126749,1
+2017,Malaysia,Medium,3192,1
+2017,Mauritania,Medium,4487,1
+2017,Mexico,Heavy Sour,1538355,1
+2017,Middle East,Medium,3242855,1
+2017,Nigeria,Light Sweet,609406,1
+2017,Non-OPEC,Heavy Sour,8898897,1
+2017,Norway,Light Sweet,63532,1
+2017,OPEC,Medium,3440017,1
+2017,Oman,Medium,27496,1
+2017,Other Americas,Heavy Sour,4401152,1
+2017,Papua New Guinea,Light Sweet,4767,1
+2017,Peru,Heavy Sour,4004,1
+2017,Russia,Light Sweet,70077,1
+2017,Saudi Arabia,Medium,1960112,1
+2017,Thailand,Medium,3850,1
+2017,Trinidad and Tobago,Light Sweet,12719,1
+2017,United Arab Emirates,Light Sour,41251,1
+2017,United Kingdom,Heavy Sour,37373,1
+2017,Venezuela,Heavy Sour,1389143,1
+2017,Vietnam,Light Sweet,9086,1
+2017,World,Heavy Sour,11067231,1
+2017,Yemen,Light Sweet,5985,1
+2018,Africa,Light Sweet,639422,1
+2018,Algeria,Light Sweet,189231,1
+2018,Angola,Medium,121135,1
+2018,Argentina,Heavy Sweet,33061,1
+2018,Asia-Pacific,Medium,140203,1
+2018,Australia,Heavy Sweet,3703,1
+2018,Azerbaijan,Light Sweet,34181,1
+2018,Barbados,Heavy Sour,350,1
+2018,Belize,Light Sour,938,1
+2018,Bolivia,Light Sweet,2226,1
+2018,Brazil,Medium,135247,1
+2018,Brunei,Medium,36981,1
+2018,Cameroon,Medium,8008,1
+2018,Canada,Heavy Sour,6469561,1
+2018,Canada (Region),Heavy Sour,6469561,1
+2018,Chad,Medium,34489,1
+2018,Colombia,Heavy Sour,726061,1
+2018,Congo-Brazzaville,Light Sweet,26082,1
+2018,Cote d'Ivoire,Heavy Sour,7336,1
+2018,Denmark,Light Sweet,11242,1
+2018,Ecuador,Heavy Sour,445130,1
+2018,Egypt,Light Sweet,29631,1
+2018,Equatorial Guinea,Medium,48167,1
+2018,Eurasia,Light Sour,110236,1
+2018,Europe,Heavy Sour,92225,1
+2018,Gabon,Medium,6615,1
+2018,Ghana,Medium,26040,1
+2018,Guatemala,Heavy Sour,15547,1
+2018,Indonesia,Medium,93184,1
+2018,Iraq,Medium,887250,1
+2018,Italy,Heavy Sour,3066,1
+2018,Kazakhstan,Light Sour,56714,1
+2018,Kuwait,Medium,195468,1
+2018,Libya,Light Sweet,112147,1
+2018,Malaysia,Medium,4116,1
+2018,Mexico,Heavy Sour,1684830,1
+2018,Middle East,Medium,3063592,1
+2018,Nigeria,Light Sweet,262304,1
+2018,Non-OPEC,Heavy Sour,9664333,1
+2018,Norway,Medium,84070,1
+2018,OPEC,Medium,3296720,1
+2018,Other Americas,Heavy Sour,4147990,1
+2018,Peru,Heavy Sour,1834,1
+2018,Russia,Medium,66255,1
+2018,Saudi Arabia,Medium,1980874,1
+2018,South Sudan,Heavy Sweet,1463,1
+2018,Thailand,Medium,1820,1
+2018,Trinidad and Tobago,Medium,11053,1
+2018,Tunisia,Light Sweet,4242,1
+2018,United Arab Emirates,Light Sour,13965,1
+2018,United Kingdom,Heavy Sour,89159,1
+2018,Venezuela,Heavy Sour,1127476,1
+2018,Vietnam,Medium,4102,1
+2018,World,Heavy Sour,11258282,1
+2019,Africa,Light Sweet,482174,1
+2019,Algeria,Light Sweet,49084,1
+2019,Angola,Heavy Sour,30660,1
+2019,Argentina,Heavy Sweet,49406,1
+2019,Asia-Pacific,Medium,82999,1
+2019,Belize,Light Sour,1001,1
+2019,Brazil,Medium,134799,1
+2019,Brunei,Medium,82999,1
+2019,Cameroon,Medium,14245,1
+2019,Canada,Heavy Sour,6364043,1
+2019,Canada (Region),Heavy Sour,6364043,1
+2019,Chad,Medium,13307,1
+2019,Colombia,Heavy Sour,717255,1
+2019,Congo-Brazzaville,Light Sweet,38759,1
+2019,Denmark,Light Sweet,26670,1
+2019,Ecuador,Heavy Sour,472059,1
+2019,Egypt,Light Sweet,22792,1
+2019,Equatorial Guinea,Medium,23002,1
+2019,Eurasia,Light Sour,193858,1
+2019,Europe,Light Sweet,154952,1
+2019,Ghana,Medium,45724,1
+2019,Guatemala,Heavy Sour,11809,1
+2019,Iraq,Medium,609784,1
+2019,Kazakhstan,Light Sour,84161,1
+2019,Kuwait,Medium,112546,1
+2019,Libya,Light Sweet,145411,1
+2019,Mexico,Heavy Sour,1524425,1
+2019,Middle East,Medium,1750287,1
+2019,Netherlands,Heavy Sour,3402,1
+2019,Nigeria,Medium,232155,1
+2019,Non-OPEC,Heavy Sour,9459793,1
+2019,Norway,Light Sweet,74186,1
+2019,OPEC,Medium,2006494,1
+2019,Other Americas,Heavy Sour,3147228,1
+2019,Peru,Heavy Sour,3269,1
+2019,Russia,Medium,168560,1
+2019,Saudi Arabia,Medium,1027957,1
+2019,South Sudan,Medium,8428,1
+2019,Spain,Light Sweet,1358,1
+2019,Trinidad and Tobago,Heavy Sour,96866,1
+2019,United Arab Emirates,Light Sour,7182,1
+2019,United Kingdom,Heavy Sour,76636,1
+2019,Venezuela,Heavy Sour,180481,1
+2019,World,Heavy Sour,9969722,1
+2020,Africa,Light Sweet,191870,1
+2020,Algeria,Light Sweet,17115,1
+2020,Angola,Light Sweet,29477,1
+2020,Argentina,Heavy Sweet,51065,1
+2020,Asia-Pacific,Medium,38003,1
+2020,Brazil,Heavy Sour,94066,1
+2020,Brunei,Medium,38003,1
+2020,Cameroon,Medium,44352,1
+2020,Canada,Heavy Sour,5984895,1
+2020,Canada (Region),Heavy Sour,5984895,1
+2020,Colombia,Heavy Sour,568729,1
+2020,Congo-Brazzaville,Light Sweet,13286,1
+2020,Ecuador,Heavy Sour,432530,1
+2020,Egypt,Light Sweet,7133,1
+2020,Eurasia,Light Sour,143535,1
+2020,Europe,Heavy Sour,51877,1
+2020,Ghana,Medium,52892,1
+2020,Guatemala,Heavy Sour,7931,1
+2020,Guyana,Medium,69671,1
+2020,Iraq,Medium,287910,1
+2020,Italy,Heavy Sour,2422,1
+2020,Kazakhstan,Light Sour,44541,1
+2020,Kuwait,Medium,38521,1
+2020,Libya,Light Sweet,21805,1
+2020,Mexico,Heavy Sour,1383270,1
+2020,Middle East,Medium,1418452,1
+2020,Nigeria,Light Sweet,93912,1
+2020,Non-OPEC,Heavy Sour,8619114,1
+2020,Norway,Light Sweet,21455,1
+2020,OPEC,Medium,1473010,1
+2020,Other Americas,Heavy Sour,2572416,1
+2020,Panama,Medium,4354,1
+2020,Peru,Light Sweet,9429,1
+2020,Russia,Light Sour,98994,1
+2020,Saudi Arabia,Medium,1092021,1
+2020,South Sudan,Medium,6678,1
+2020,The Bahamas,Medium,7049,1
+2020,Trinidad and Tobago,Heavy Sour,79079,1
+2020,United Arab Emirates,Light Sour,13622,1
+2020,United Kingdom,Heavy Sour,49455,1
+2020,Vietnam,Light Sweet,4298,1
+2020,World,Heavy Sour,8920898,1
+2021,Africa,Light Sweet,566580,1
+2021,Algeria,Light Sweet,45843,1
+2021,Angola,Medium,48489,1
+2021,Argentina,Light Sweet,46151,1
+2021,Asia-Pacific,Medium,64120,1
+2021,Brazil,Medium,180712,1
+2021,Brunei,Medium,64120,1
+2021,Cameroon,Light Sweet,7182,1
+2021,Canada,Heavy Sour,6587511,1
+2021,Canada (Region),Heavy Sour,6587511,1
+2021,Colombia,Heavy Sour,437556,1
+2021,Country not known,Medium,14231,1
+2021,Ecuador,Heavy Sour,368137,1
+2021,Eurasia,Medium,220227,1
+2021,Europe,Heavy Sour,95018,1
+2021,Ghana,Medium,78365,1
+2021,Guatemala,Heavy Sour,7868,1
+2021,Guyana,Medium,201068,1
+2021,Iraq,Medium,319361,1
+2021,Kazakhstan,Light Sour,47236,1
+2021,Kuwait,Heavy Sour,48510,1
+2021,Libya,Light Sweet,214578,1
+2021,Mexico,Heavy Sour,1101240,1
+2021,Middle East,Medium,1188264,1
+2021,Netherlands,Medium,6979,1
+2021,Nigeria,Light Sweet,230468,1
+2021,Non-OPEC,Heavy Sour,8778133,1
+2021,Norway,Light Sweet,81382,1
+2021,OPEC,Medium,1234688,1
+2021,Other Americas,Heavy Sour,2079665,1
+2021,Peru,Heavy Sour,9877,1
+2021,Russia,Medium,220227,1
+2021,Saudi Arabia,Medium,868903,1
+2021,Trinidad and Tobago,Heavy Sour,79604,1
+2021,United Arab Emirates,Light Sour,40278,1
+2021,United Kingdom,Heavy Sour,92232,1
+2021,World,Heavy Sour,8911812,1
+2022,Africa,Light Sweet,557081,1
+2022,Algeria,Light Sweet,39704,1
+2022,Angola,Medium,54803,1
+2022,Argentina,Light Sweet,108871,1
+2022,Asia-Pacific,Light Sweet,8288,1
+2022,Australia,Heavy Sweet,4900,1
+2022,Brazil,Medium,296394,1
+2022,Canada,Heavy Sour,6889106,1
+2022,Canada (Region),Heavy Sour,6889106,1
+2022,Colombia,Heavy Sour,553182,1
+2022,Congo-Brazzaville,Medium,6755,1
+2022,Country not known,Medium,3549,1
+2022,Ecuador,Heavy Sour,355579,1
+2022,Eurasia,Light Sour,69251,1
+2022,Europe,Heavy Sour,50953,1
+2022,Gabon,Medium,4956,1
+2022,Ghana,Medium,107562,1
+2022,Guatemala,Heavy Sour,6076,1
+2022,Guyana,Medium,169001,1
+2022,Indonesia,Light Sweet,8288,1
+2022,Iraq,Medium,462749,1
+2022,Kazakhstan,Light Sour,54957,1
+2022,Kuwait,Heavy Sour,67907,1
+2022,Libya,Light Sweet,193634,1
+2022,Mexico,Heavy Sour,1091573,1
+2022,Middle East,Medium,1504762,1
+2022,Nigeria,Light Sweet,232022,1
+2022,Non-OPEC,Heavy Sour,9125347,1
+2022,Norway,Medium,39445,1
+2022,OPEC,Medium,1526749,1
+2022,Other Americas,Heavy Sour,2181879,1
+2022,Peru,Heavy Sweet,7322,1
+2022,Russia,Medium,25165,1
+2022,Saudi Arabia,Medium,1042013,1
+2022,Trinidad and Tobago,Heavy Sour,89859,1
+2022,Tunisia,Light Sweet,4389,1
+2022,United Arab Emirates,Light Sour,30716,1
+2022,United Kingdom,Heavy Sour,50953,1
+2022,World,Heavy Sour,9384956,1
+2023,Africa,Light Sweet,635159,1
+2023,Algeria,Light Sweet,47467,1
+2023,Angola,Medium,34097,1
+2023,Argentina,Light Sweet,103824,1
+2023,Asia-Pacific,Light Sweet,8799,1
+2023,Australia,Light Sweet,6804,1
+2023,Brazil,Medium,331254,1
+2023,Cameroon,Heavy Sweet,4319,1
+2023,Canada,Heavy Sour,6978825,1
+2023,Canada (Region),Heavy Sour,6978825,1
+2023,Chad,Medium,6622,1
+2023,Colombia,Heavy Sour,498708,1
+2023,Congo-Brazzaville,Light Sweet,20062,1
+2023,Cote d'Ivoire,Medium,2093,1
+2023,Country not known,Medium,12103,1
+2023,Ecuador,Heavy Sour,315406,1
+2023,Egypt,Light Sweet,3836,1
+2023,Equatorial Guinea,Medium,7203,1
+2023,Eurasia,Light Sour,82964,1
+2023,Europe,Heavy Sour,60221,1
+2023,Ghana,Medium,71008,1
+2023,Guatemala,Heavy Sour,1967,1
+2023,Guyana,Medium,231987,1
+2023,Iraq,Medium,438837,1
+2023,Kazakhstan,Light Sour,82964,1
+2023,Kuwait,Heavy Sour,54754,1
+2023,Libya,Light Sweet,205282,1
+2023,Mexico,Heavy Sour,1101282,1
+2023,Middle East,Medium,1221997,1
+2023,Netherlands,Heavy Sour,2695,1
+2023,Nigeria,Light Sweet,294861,1
+2023,Non-OPEC,Heavy Sour,9183608,1
+2023,Norway,Light Sweet,11193,1
+2023,OPEC,Medium,1317897,1
+2023,Other Americas,Heavy Sour,2477426,1
+2023,Peru,Heavy Sour,735,1
+2023,Qatar,Medium,6965,1
+2023,Russia,Heavy Sour,70,1
+2023,Saudi Arabia,Medium,776195,1
+2023,The Bahamas,Heavy Sour,14,1
+2023,Trinidad and Tobago,Heavy Sour,86499,1
+2023,Tunisia,Light Sweet,4354,1
+2023,United Arab Emirates,Light Sour,43015,1
+2023,United Kingdom,Heavy Sour,57526,1
+2023,Venezuela,Heavy Sour,332941,1
+2023,Vietnam,Light Sweet,1995,1
+2023,World,Heavy Sour,9695070,1
+2024,Africa,Light Sweet,53116,1
+2024,Algeria,Light Sweet,3759,1
+2024,Angola,Light Sweet,3689,1
+2024,Argentina,Light Sweet,6804,1
+2024,Brazil,Medium,38136,1
+2024,Cameroon,Heavy Sweet,4543,1
+2024,Canada,Heavy Sour,659673,1
+2024,Canada (Region),Heavy Sour,659673,1
+2024,Chad,Medium,4011,1
+2024,Colombia,Heavy Sour,52591,1
+2024,Ecuador,Heavy Sour,17234,1
+2024,Eurasia,Light Sour,14154,1
+2024,Europe,Heavy Sour,5635,1
+2024,Ghana,Medium,6223,1
+2024,Guyana,Medium,37961,1
+2024,Iraq,Medium,32641,1
+2024,Kazakhstan,Light Sour,14154,1
+2024,Kuwait,Heavy Sour,3521,1
+2024,Libya,Light Sweet,12152,1
+2024,Mexico,Heavy Sour,53900,1
+2024,Middle East,Medium,97279,1
+2024,Nigeria,Light Sweet,33516,1
+2024,Non-OPEC,Heavy Sour,810040,1
+2024,Norway,Medium,3801,1
+2024,OPEC,Medium,100590,1
+2024,Other Americas,Heavy Sour,177765,1
+2024,Saudi Arabia,Medium,64638,1
+2024,Trinidad and Tobago,Heavy Sour,11368,1
+2024,United Kingdom,Heavy Sour,5635,1
+2024,Venezuela,Heavy Sour,33033,1
+2024,World,Heavy Sour,846594,1
