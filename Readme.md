@@ -1,12 +1,10 @@
 # About this Project
 
-Dockerized spark cluster to Analyze the Crude Oil dataset.
-data set from https://www.kaggle.com/datasets/alistairking/u-s-crude-oil-imports/data
+Dockerized spark cluster to analyze the Crude Oil dataset.
+data set pulled into repo from https://www.kaggle.com/datasets/alistairking/u-s-crude-oil-imports/data
 
-- Docker volumes are set to share data between container and local
-
-
-make file has commands to run pyspark jobs in spark cluster
+- Docker volumes are set(persistent storage) to share data between container and local
+- Created a make file has commands to spin up docker containers and run pyspark jobs in spark cluster
 ```shell
 eg:
 make build
@@ -31,7 +29,8 @@ Python job commands for 2nd and 3rd question in take home assignment:
 make submit app=united_kingdom.py
 make submit app=most_exported_grade.py
 ```
-Note : For this assignment running with 1 master and 1 worker node in spark cluster
+For this assignment running with 1 master and 1 worker node in spark cluster.
+Just for the ease of understanding has seperated 3 questions into 3 apps(.py files), could be done in a single application as well!
 
 ## Web UIs
 master node :
