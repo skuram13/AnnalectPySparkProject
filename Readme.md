@@ -4,7 +4,11 @@ Dockerized spark cluster to analyze the Crude Oil dataset.
 data set pulled into repo from https://www.kaggle.com/datasets/alistairking/u-s-crude-oil-imports/data
 
 - Docker volumes are set(persistent storage) to share data between container and local
-- Created a make file has commands to spin up docker containers and run pyspark jobs in spark cluster
+- Output folder has question 1 (What are the top 5 destinations for oil produced in Albania) stored in apache iceberg format
+- results folder has output of all the 3 questions in csv format
+
+# Make file
+- Created make file which has commands to spin up docker containers and run pyspark jobs in spark cluster
 ```shell
 eg:
 make build
