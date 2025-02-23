@@ -1,7 +1,7 @@
 # About this Project
 
 Dockerized spark cluster to Analyze the Crude Oil dataset.
-data set in https://www.kaggle.com/datasets/alistairking/u-s-crude-oil-imports/data
+data set from https://www.kaggle.com/datasets/alistairking/u-s-crude-oil-imports/data
 
 - Docker volumes are set to share data between container and local
 
