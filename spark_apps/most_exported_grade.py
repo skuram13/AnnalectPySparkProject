@@ -31,5 +31,8 @@ result_df_final.show()
 result_df_final.write.mode("overwrite").option("header", "true").csv("/opt/spark/results/most_exported_grade.csv")
 
 
+# Close the Spark session
+spark.stop()
+
 ## used command below to run this app
 ## make submit app=most_exported_grade.py

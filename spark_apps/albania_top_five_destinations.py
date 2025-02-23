@@ -66,6 +66,8 @@ result_iceberg_sql_way = spark.sql("SELECT * FROM local.crude_oil_schema.top_fiv
 # Show the result
 result_iceberg_sql_way.show()
 
+# Close the Spark session
+spark.stop()
 
 ## Note above app is run using make file command
 ## make submit-iceberg app=albania_top_five_destinations.py

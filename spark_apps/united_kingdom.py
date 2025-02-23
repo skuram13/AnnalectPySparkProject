@@ -29,5 +29,8 @@ result_df_uk.show()
 result_df_uk.write.mode("overwrite").option("header", "true").csv("/opt/spark/results/united_kingdom_results.csv")
 
 
+# Close the Spark session
+spark.stop()
+
 ## used command below to run this app
 ## make submit app=united_kingdom.py
